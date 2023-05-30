@@ -8,3 +8,8 @@ if isinstance(B,float) and B == 1.18:
     print("Float:",B)
 if isinstance(C,int) and C == 599:
     print("Integer:",C)
+    
+#Output
+String: Minecraft
+Float: 1.18
+Integer: 599
