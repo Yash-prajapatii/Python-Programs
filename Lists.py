@@ -19,3 +19,16 @@ print(mylist[9])
 print(mylist[1])
 print(mylist[4])
 
+#Output
+1
+2
+3
+1
+2
+3
+
+
+0
+6
+0
+3
