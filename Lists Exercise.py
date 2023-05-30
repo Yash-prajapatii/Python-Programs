@@ -15,4 +15,9 @@ second_name = names[1]
 
 print(numbers)
 print(strings)
-print("The second name on the nameslist",second_name)
+print("The second name on the is nameslist",second_name) 
+
+#Output
+[4, 2, 5, 1, 3]
+['Old friend circle but still strong']
+The second name on the nameslist is achu
