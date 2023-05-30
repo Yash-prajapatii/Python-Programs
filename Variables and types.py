@@ -43,11 +43,13 @@ print(Result)
 a,b,c,d,e,f=8,7,6,5,4,3
 print(a,b,c,d,e,f)
 
-
-
-
-
-
-
-
-
+#output
+14
+19.19
+19.0
+Hi Coders
+Nice to meet you
+Don't worry about apostrophes
+25
+WELCOME TO JUMANJI
+8 7 6 5 4 3
