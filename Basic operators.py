@@ -53,3 +53,19 @@ print(A)
 
 print([3,2,1]*2)
 
+#output
+'''
+250
+134
+425
+5.25
+245.0
+4
+25
+64
+Python Cpp Java
+Lotsoflove Lotsoflove Lotsoflove Lotsoflove Lotsoflove 
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+[1, 3, 5, 1, 3, 5, 1, 3, 5, 1, 3, 5]
+[3, 2, 1, 3, 2, 1]
+''
