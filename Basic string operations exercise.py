@@ -32,3 +32,20 @@ if s.endswith("ome!"):
 # Split the string into three separate strings,
 # each containing only a word
 print("Split the words of the string: %s" % s.split(" "))
+
+#Output
+'''
+Length of s = 20
+The first occurrence of the letter a = 8
+a occurs 2 times
+The first five characters are 'Strin'
+The next five characters are 'gs ar'
+The thirteenth character is 'a'
+The characters with odd index are 'tig r wsm!'
+The last five characters are 'some!'
+String in uppercase: STRINGS ARE AWESOME!
+String in lowercase: strings are awesome!
+String starts with 'Str'. Good!
+String ends with 'ome!'. Good!
+Split the words of the string: ['Strings', 'are', 'awesome!']
+'''
