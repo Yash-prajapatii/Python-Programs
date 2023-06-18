@@ -48,4 +48,24 @@ afewwords = astring.split(" ")
 print(astring)
 print(afewwords)
 
-
+#Output
+'''
+Hello, world!
+Hello, world!
+Single quotes are ' '
+21
+8
+3
+come to the
+cm
+come
+come
+!dlrow eht ot emocleW
+WELCOME TO THE WORLD!
+welcome to the world!
+True
+False
+True
+Welcome to the world!
+['Welcome', 'to', 'the', 'world!']
+'''
