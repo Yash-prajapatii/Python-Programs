@@ -20,3 +20,13 @@ if first_array and first_array[0] == 1:
 
 if not second_number:
     print("6")
+
+#Output
+'''
+1
+2
+3
+4
+5
+6
+'''
