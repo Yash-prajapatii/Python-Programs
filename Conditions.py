@@ -52,3 +52,18 @@ print(x is y)
 
 print(not False)
 print((not False) == (False))
+
+#output
+'''
+True
+False
+True
+Your name is Ankur, and you are also 23 years old.
+Your name is either Ankur or Anil.
+Your name is either GG or VK or Steve.
+x equals five!
+True
+False
+True
+False
+'''
