@@ -12,3 +12,9 @@ def name_the_benefits_of_functions():
         print(build_sentence(benefit))
 
 name_the_benefits_of_functions()
+
+#output
+More organized code is a benefit of functions!
+More readable code is a benefit of functions!
+Easier code reuse is a benefit of functions!
+Allowing programmers to share and connect code together is a benefit of functions!
