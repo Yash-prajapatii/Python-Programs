@@ -14,6 +14,8 @@ x = sum_two_numbers(1,2)
 print(x)
 
 #output
+'''
 Hello From My Function!
 Hello, Pre singh , From My Function!, I wish you a great year!
 3
+''
